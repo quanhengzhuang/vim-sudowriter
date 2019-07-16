@@ -1,2 +1,2 @@
-# vim-sudowrite
+# vim-sudowriter
 Vim sudo write file
